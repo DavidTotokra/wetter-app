@@ -2,7 +2,7 @@
 
 Dieses Projekt wurde mit Typescript [Create React App](https://github.com/facebook/create-react-app).
 
-Es gibt dazu Unittest aus verschiedene Library 
+Es gibt dazu Unittest aus verschiedenen Library 
 # um dieses Projekt zu starten 
 
 
