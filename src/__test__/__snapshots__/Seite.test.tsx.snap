@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test CountryDetails Componet Should render correctly 1`] = `
+<div>
+  <aside
+    class="sc-dkzDqf QsDSv"
+  />
+</div>
+`;

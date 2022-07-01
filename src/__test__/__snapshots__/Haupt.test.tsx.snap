@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Haupt Componet Should render correctly 1`] = `
+<div>
+  <div
+    class="sc-bczRLJ NKmwg"
+  />
+</div>
+`;
+
+exports[`Haupt Componet should show the right text 1`] = `[Function]`;
